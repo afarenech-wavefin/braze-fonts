@@ -1,47 +1,7 @@
 @font-face {
     font-family: 'Dinero Sans';
-    src: url('https://braze-images.com/appboy/communication/assets/font_assets/files/653051aba5eb2d004df3c5e0/original.woff2') format('woff2');
+    src: url('https://braze-images.com/appboy/communication/assets/font_assets/files/653051aba5eb2d004df3c5e0/original.woff2?1697665451') format('woff2');
     font-weight: 400;
     font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Dinero Sans';
-    src: url('https://braze-images.com/appboy/communication/assets/font_assets/files/653051aba124d1004d4656b5/original.woff2') format('woff2');
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Dinero Sans';
-    src: url('https://braze-images.com/appboy/communication/assets/font_assets/files/653051abb00ec1004ed64ad2/original.woff2') format('woff2');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Dinero Sans';
-    src: url('https://braze-images.com/appboy/communication/assets/font_assets/files/653051ab5c3bd0004d9c909a/original.woff2') format('woff2');
-    font-weight: 600;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Dinero Sans';
-    src: url('https://braze-images.com/appboy/communication/assets/font_assets/files/653051ab469c5000588cfe98/original.woff2') format('woff2');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Dinero Display';
-    src: url('https://braze-images.com/appboy/communication/assets/font_assets/files/653051ab223d7b0057aff522/original.woff2') format('woff2');
-    font-weight: 700;
-    font-style: italic;
     font-display: swap;
 }
