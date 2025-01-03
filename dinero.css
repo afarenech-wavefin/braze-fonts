@@ -29,3 +29,19 @@
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Stix Two Text';
+    src: url('https://cdn.prod.website-files.com/62446230dcb514b828a6e237/67780817575770f01d44291a_STIXTwoText-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stix Two Text';
+    src: url('https://cdn.prod.website-files.com/62446230dcb514b828a6e237/67780817dbf2ff473169e177_STIXTwoText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
