@@ -1,31 +1,23 @@
 @font-face {
-    font-family: 'Dinero Display';
-    src: url('https://assets.website-files.com/62446230dcb514b828a6e237/62cf17333d834a7460786450_DineroDisplay-Regular.woff2') format('woff2');
+    font-family: 'Dinero Sans';
+    src: url('https://cdn.prod.website-files.com/62446230dcb514b828a6e237/677e9b22e731f88a295617d3_DineroSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Dinero Display';
-    src: url('https://assets.website-files.com/62446230dcb514b828a6e237/62cef3e0e3d99b7a1323c06c_DineroDisplay-Semibold.woff2') format('woff2');
+    font-family: 'Dinero Sans';
+    src: url('https://cdn.prod.website-files.com/62446230dcb514b828a6e237/6787d26adf41ec8215863c3f_DineroSans-Semibold.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Dinero Display';
-    src: url('https://assets.website-files.com/62446230dcb514b828a6e237/62cf17581cc146802f0c6ee6_DineroDisplay-Bold.woff2') format('woff2');
+    font-family: 'Dinero Sans';
+    src: url('https://cdn.prod.website-files.com/62446230dcb514b828a6e237/677e9b2247aa58851fba14e4_DineroSans-Bold.woff2') format('woff2');
     font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Dinero Display';
-    src: url('https://assets.website-files.com/62446230dcb514b828a6e237/62cf1752fc7cc6b9abe08bf4_DineroDisplay-Light.woff2') format('woff2');
-    font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
